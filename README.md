@@ -1,6 +1,4 @@
 # Curriculum Vitae -CV-
-Curriculum Vitae (CV)
-
 
 ![image](https://user-images.githubusercontent.com/100777525/220427124-daac19a4-c3ce-49f2-8bcd-cfd904bef414.png)
 
